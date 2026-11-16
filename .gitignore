@@ -1,2 +1,7 @@
 .vscode
 checkpoints
+__pycache__/
+*.pyc
+.venv/
+rzgpt/.data/
+*.pt
